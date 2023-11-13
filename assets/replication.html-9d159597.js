@@ -1,0 +1,1 @@
+import{_ as t,X as n,Y as c,Z as e}from"./framework-a5f096d1.js";const s={},i=e("div",{class:"hint-container tip"},[e("p",{class:"hint-container-title"},"Tips"),e("p",null,"该功能正在开发中，计划在9-10月提供.")],-1),o=[i];function a(l,r){return n(),c("div",null,o)}const p=t(s,[["render",a],["__file","replication.html.vue"]]);export{p as default};
